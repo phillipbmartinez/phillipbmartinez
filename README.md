@@ -1,9 +1,9 @@
 ## Hi there 👋
 
-- 🔭 I’m currently working through the Odin Project, Boot.dev, and other projects I'm interested in.
-- 🌱 I’m currently learning about HTML, CSS, Javascript, Databases, C#, Python.
+- 🔭 I’m currently working through the Odin Project, Boot.dev, and other projects on this journey.
+- 🌱 I’m currently working alot with HTML, CSS, Javascript, node JS, Express JS, and Databases.
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/pbmartinez/)
-- ⚡ A llittle about me: I really enjoy working out, reading, and being active outside when I'm not learning more about software development! 
+- ⚡ Outside of programming I really enjoy spending time with my family, working out, reading, and being active outside when I'm not learning!
 
 ## Languages and Tools:
 ![javascript](./images/python.png)
