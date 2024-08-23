@@ -1,4 +1,5 @@
 ## Hi there 👋
+![](./image.svg)
 
 - 🔭 I’m currently working through the Odin Project, Boot.dev, and other projects I'm interested in.
 - 🌱 I’m currently learning about HTML, CSS< Javascript, Databases, C#, Python.
