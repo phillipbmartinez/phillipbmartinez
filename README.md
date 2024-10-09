@@ -6,7 +6,7 @@
 - ⚡ Outside of programming I really enjoy spending time with my family, working out, reading, and being active outside when I'm not learning!
 
 ## Languages and Tools:
-![javascript](./images/python.png)
+![javascript](./images/javascript.png)
 ![html](./images/html.png)
 ![css](./images/css3.png)
 ![node js](./images/nodejs.png)
