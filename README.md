@@ -13,6 +13,8 @@
 ![css](./images/css3.png)
 ![visualStudio](./images/visualStudio.png)
 ![vs code](./images/vs-code.png)
+![.NET](./images/.net48.png)
+![Bootstrap](./images/bootstrap-48.png)
 ![ubuntu](./images/ubuntu.png)
 ![mysql](./images/mysql.png)
 ![git](./images/git.png)
